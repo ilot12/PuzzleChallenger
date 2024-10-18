@@ -6,9 +6,9 @@
 > 멋쟁이 사자처럼 Unity 2기 1차 개인 프로젝트.   
 2주일 정도의 기간으로 혼자 만들 수 있는 간단한 게임을 만들어보자!
 
-<div style="text-align:center;">
-    <img src="./imgs/play.gif" alt="기능실행이미지" width="700px" style="border: 1px solid #000;">
-</div>
+<p align="center">
+    <img src="./imgs/play.gif" alt="타이틀 이미지" width="720px">
+</p>
 
 ## 목차
  - [개요](#개요)
