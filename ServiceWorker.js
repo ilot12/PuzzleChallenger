@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PuzzleChallenger-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/WebBuild.loader.js",
+    "Build/WebBuild.framework.js.unityweb",
+    "Build/WebBuild.data.unityweb",
+    "Build/WebBuild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
