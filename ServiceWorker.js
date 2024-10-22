@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-CopiedProject-1.0";
+const cacheName = "DefaultCompany-PuzzleChallenger-1.0";
 const contentToCache = [
     "Build/WebBuild.loader.js",
     "Build/WebBuild.framework.js.unityweb",
