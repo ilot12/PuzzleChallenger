@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./imgs/title_512.png" alt="타이틀 이미지" width="512px">
+    <img src="./imgs/Title.png" alt="타이틀 이미지" width="512px" height="256px">
 </p>
 
 # 멋쟁이 사자처럼 Unity 2기 1차 개인 프로젝트
@@ -7,7 +7,7 @@
 2주일 정도의 기간으로 혼자 만들 수 있는 간단한 게임을 만들어보자!
 
 <p align="center">
-    <img src="./imgs/play.gif" alt="타이틀 이미지" width="720px">
+    <img src="./imgs/1. 대문.gif" alt="타이틀 이미지" width="720px">
 </p>
 
 ## 목차
@@ -37,8 +37,11 @@
 <br>
 
 ## 실행하기
-https://ilot12.github.io/PuzzleChallenger/     
+Window용 빌드를 해 두었습니다.
+
+맥 사용자를 위해서 웹 빌드로
 GH page를 이용해 실행할 수 있도록 만들어 놓았습니다.     
+https://ilot12.github.io/PuzzleChallenger/     
 <br>
    
 
@@ -95,6 +98,9 @@ GH page를 이용해 실행할 수 있도록 만들어 놓았습니다.
 구성 요소는 Match3게임과 비슷하지만   
 퍼즐의 이동에 단 1번 이동이라는 제한대신 마음껏 이동이 가능하고 시간이 제한되어 있습니다.   
 그렇다고 드래그 드롭을 여러번 하는 것은 아니고 단 한번의 드래그 드롭 안에 최대한 많은 것을 맞춰야 합니다.   
+
+상세 매커니즘 및 가이드
+https://github.com/ilot12/PuzzleChallenger/tree/main/docs
 
 ### 플레이 흐름
 
