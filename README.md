@@ -40,7 +40,8 @@
 Window용 빌드를 해 두었습니다.
 
 맥 사용자를 위해서 웹 빌드로
-GH page를 이용해 실행할 수 있도록 만들어 놓았습니다.     
+GH page를 이용해 실행할 수 있도록 만들어 놓았습니다.
+웹 빌드 버전에서는 해상도 변경기능이 잘 동작하지 않습니다.     
 https://ilot12.github.io/PuzzleChallenger/     
 <br>
    
